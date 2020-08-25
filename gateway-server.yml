@@ -1,8 +1,6 @@
 server:
   port: 8072
 
-logstash:
-  host: logstash:5000
 
 logging: 
   config: classpath:logback-delayed.xml
